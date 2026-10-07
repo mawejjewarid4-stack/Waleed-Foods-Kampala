@@ -1,0 +1,6 @@
+{
+  "name": "Waleed Foods - Kampala Digital Menu",
+  "description": "Modern digital menu for Waleed Foods in Kampala, Uganda featuring Kampala Specials, Burgers & Wings, Coffee & Snacks, and instant WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
